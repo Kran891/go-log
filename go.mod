@@ -1,4 +1,4 @@
-module github.com/kran891/go-log
+module github.com/kran891/logger
 
 go 1.23.4
 
